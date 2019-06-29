@@ -12,7 +12,7 @@ Further information on Deadline:
 * [The Infocom Gallery](http://infocom.elsewhere.org/gallery/deadline_grey/)
 * [IFWiki](http://www.ifwiki.org/index.php/Deadline)
 
-The following source material is available for importation. Release 119 was selected from the Zarf Sources.
+The following source material is available for importation. Release 28 was selected from the Zarf Sources.
 
 ## Historical Releases
 
