@@ -106,7 +106,7 @@ now you! I canna believe it!\"" CR>)>
 <GLOBAL GARDENER-ANGRY <>>
 <GLOBAL G-I-G <>>
 
-<GLOBAL PRESENT-TIME 480>		;"9AM"
+;<GLOBAL PRESENT-TIME 480>		;"9AM"
 
 <ROUTINE FOYER-F ("OPTIONAL" (RARG <>))
 	 <COND (<==? .RARG ,M-ENTER>
