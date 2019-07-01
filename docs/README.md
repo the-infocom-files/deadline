@@ -19,7 +19,7 @@ The following source material is available for importation. Release 28 was selec
 These contain the available source material.
 
 | Release | Serial | Story File         | Zarf Sources | Jason Scott Sources |
-| -------:|:------:|:------------------:|:------------:| ------------------- |
+| -------:|:------:|:------------------:|:------------:|:-------------------:|
 |      27 | 831005 |   [r27-s831005-z3] |    [r27-zip] |       [revision-27] |
 |      28 | 850129 |   [r28-s850129-z3] |    [r28-zip] |    [final-revision] |
 
