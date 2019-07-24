@@ -945,7 +945,7 @@ He hesitates suddenly, pen in hand." CR>
 		       <TELL
 "\"A fascinating story, Inspector. A man is found dead behind a locked door,
 a clear suicide. Yet the detective seems bent on proving that a murder has
-occured. Rather odd, wouldn't you say?\"" CR>)
+occurred. Rather odd, wouldn't you say?\"" CR>)
 		      (<==? ,PRSI ,GLOBAL-CONCERT>
 		       <TELL
 "\"A marvelous concert! There were works by Beethoven, Sibelius, and Ravel. I
