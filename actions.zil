@@ -3761,7 +3761,7 @@ head at close range, leaving a most distasteful mess." CR>)
 	 <MOVE ,BAXTER ,SOUTH-LAWN>
 	 <COND (<==? ,HERE ,SOUTH-LAWN>
 		<TELL
-"A limosine pulls up the drive. Mr. Baxter exits and the limo pulls away.
+"A limousine pulls up the drive. Mr. Baxter exits and the limo pulls away.
 Baxter takes a deep breath and looks around." CR>)
 	       (<OR <EQUAL? ,HERE ,FRONT-PATH ,EAST-LAWN ,WEST-LAWN>
 		    <EQUAL? ,HERE ,EAST-OF-DOOR ,WEST-OF-DOOR>>
