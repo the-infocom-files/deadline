@@ -2915,7 +2915,7 @@ perhaps angry -- you can't be sure." CR>)
 		       <TELL
 "Through the grimy window you see Mr. Baxter and Ms. Dunbar talking. Dunbar
 is doing most of the talking, barely restraining tears. Baxter is listening,
-nodding grimly, and occassionally saying a few words. Unfortunately, you can't
+nodding grimly, and occasionally saying a few words. Unfortunately, you can't
 make any of them out." CR>)
 		      (T
 		       <TELL
