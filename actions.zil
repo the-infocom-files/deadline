@@ -1359,7 +1359,7 @@ about a new will. Maybe the old man just wanted to change something.\"" CR>)
 		       <TELL
 "\"Like I told your detective friend yesterday, we didn't get along too well.
 He was always riding me, giving me a hard time.\" George gets worked up
-talking about it.\"Look, man. I'm not going to lie and say I loved him, right?
+talking about it. \"Look, man. I'm not going to lie and say I loved him, right?
 He got what...\" He stops in mid-sentence." CR>)
 		      (<==? ,PRSI ,GLOBAL-FOCUS>
 		       <TELL
