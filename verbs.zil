@@ -205,8 +205,8 @@ long description (fdesc or ldesc), otherwise will print short."
 	 <TELL
 "You are an amateur inspector, at best." CR>>
 
-<ROUTINE V-QUIT ("OPTIONAL" (ASK? T) "AUX" SCOR)
-	 #DECL ((ASK?) <OR ATOM <PRIMTYPE LIST>> (SCOR) FIX)
+<ROUTINE V-QUIT ("OPTIONAL" (ASK? T) "AUX")
+	 #DECL ((ASK?) <OR ATOM <PRIMTYPE LIST>>)
 	 <COND (<OR <AND .ASK?
 			 <TELL
 "Do you wish to stop your investigation (Y/N)">
@@ -1490,7 +1490,7 @@ come to your unhealthy mind, tut-tuts this sort of thing.  A pity." CR>)
 <ROUTINE V-DIAGNOSE ()
 	 <TELL "You're OK for now." CR>>
 
-<ROUTINE V-SAY ("AUX" V)
+<ROUTINE V-SAY ()
 	 <SETG QUOTE-FLAG <>>
 	 <SETG P-CONT <>>
 	 <TELL
@@ -1713,7 +1713,7 @@ good fingerprints to be found." CR>>
 		<DESCRIBE-OBJECTS>
 		<SETG HERE .OHERE>)>>
 
- <ROUTINE SEE-INTO? (THERE "AUX" P L TX O)
+ <ROUTINE SEE-INTO? (THERE "AUX" P L TX)
 	 <SET P 0>
 	 <REPEAT ()
 		 <COND (<0? <SET P <NEXTP ,HERE .P>>>
@@ -1747,8 +1747,8 @@ good fingerprints to be found." CR>>
 <ROUTINE V-WRITE ()
 	 <TELL "You're nuts." CR>>
 
-<ROUTINE V-THROUGH ("OPTIONAL" (OBJ <>) "AUX" M DIR PT PTS)
-	#DECL ((OBJ) <OR OBJECT FALSE> (M) <PRIMTYPE VECTOR>)
+<ROUTINE V-THROUGH ("OPTIONAL" (OBJ <>) "AUX" DIR)
+	#DECL ((OBJ) <OR OBJECT FALSE>)
 	<COND (<IN? ,PRSO ,ROOMS>
 	       <COND (<==? ,HERE ,PRSO>
 		      <TELL "Duuuhhh!" CR>)
