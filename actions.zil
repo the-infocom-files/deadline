@@ -1026,7 +1026,7 @@ life here. I am quite grieved for her.\"" CR>)
 		      (<OR <EQUAL? ,PRSI ,ROURKE ,GLOBAL-ROURKE>
 			   <EQUAL? ,PRSI ,GARDENER ,GLOBAL-GARDENER>>
 		       <TELL
-"\"I don't know much about " D ,PRSI "\"." CR>)
+"\"I don't know much about " D ,PRSI ".\"" CR>)
 		      (<EQUAL? ,PRSI ,GLOBAL-OLD-WILL>
 		       <TELL
 "\"I really don't know anything about the old will.\"" CR>)
@@ -2781,17 +2781,17 @@ those of Mr. Robner and Ms. Dunbar">)
 	       (<==? ,FINGERPRINT-OBJ ,SUGAR-BOWL>
 		<TELL "\"The bowl,\" he begins,
 \"has the fingerprints of Mr. Robner and Ms. Dunbar. The bowl
-contains common table sugar only.">)
+contains common table sugar only">)
 	       (T
 		<TELL "\"I am sorry,\" he begins,
-\" but the lab found nothing of interest.">)>
+\"but the lab found nothing of interest">)>
 	 <COND (<AND <EQUAL? ,FINGERPRINT-OBJ ,LADDER>
 		     <NOT <==? <GETP ,HERE ,P?LINE> ,OUTSIDE-LINE-C>>>
 		<TELL " In the interests of
 civility, I have left the ladder outside the house.\" He leaves." CR>
 		<MOVE ,LADDER ,FRONT-PATH>)
 	       (T
-		<TELL "\".
+		<TELL ".\"
 With that, he leaves, handing you the " D ,FINGERPRINT-OBJ
 					" as he whisks away." CR>
 		<MOVE ,FINGERPRINT-OBJ ,PLAYER>)>
@@ -3283,7 +3283,7 @@ does begin at home, as the saying goes. Not that I have anything to complain
 about. He always treated me right.\"" CR>)
 		      (T
 		       <TELL
-"\"I don't know nothing about no " D ,PRSI "\"." CR>)>)
+"\"I don't know nothing about no " D ,PRSI ".\"" CR>)>)
 	       (<VERB? SHOW CONFRONT>
 		<COND (<==? ,PRSI ,LAB-REPORT>
 		       <TELL
