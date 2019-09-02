@@ -2909,7 +2909,7 @@ Ms. Dunbar starts to cry and is embraced by Mr. Baxter." CR>)
 		       <TELL
 "Mr. Baxter and Ms. Dunbar are inside. Although you can't hear them, it's
 clear from their gestures that a serious argument is occurring. Dunbar appears
-very upset and breaks into tears. Baxter remains composed, but tense and 
+very upset and breaks into tears. Baxter remains composed, but tense and
 perhaps angry -- you can't be sure." CR>)
 		      (<G? ,SECRET-MEETING 0>
 		       <TELL
