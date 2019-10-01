@@ -60,7 +60,7 @@
 "Chief Inspector Klutz walks up to you, seemingly from out of nowhere.
 \"I'm sorry, Inspector, but your time is up here.  I'm sorry that you
 didn't have any more time to investigate the case.  Maybe next time...\"
-He escorts you to a waiting police car, in which  you go off into the
+He escorts you to a waiting police car, in which you go off into the
 sunset." CR>
 		<QUIT>)>
 	 <COND (<G? <SETG MOVES <+ ,MOVES 1>> 59>
