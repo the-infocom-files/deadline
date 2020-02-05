@@ -9,6 +9,7 @@ The following sources provide further information on Deadline.
 * [The Interactive Fiction Database](https://ifdb.tads.org/viewgame?id=p976o7x5ies9ltdh)
 * [The Infocom Gallery](http://infocom.elsewhere.org/gallery/deadline_grey/)
 * [IFWiki](http://www.ifwiki.org/index.php/Deadline)
+* [Deadline Specifications](http://www.infocom-if.org/games/deadline/deadspecs.html)
 
 ## Resources
 
