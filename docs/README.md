@@ -39,7 +39,7 @@ Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for e
 [deadline-r27.zip]: https://eblong.com/infocom/sources/deadline-r27.zip
 [revision 27]: https://github.com/historicalsource/deadline/tree/ad6dc28bb24968af58f4bd1c3236116c60aacc8e
 
-## Final Development Releases
+## Final Development Release
 
 Zarf's Obsessively Complete Infocom Catalog holds a copy of the game file for the final development release. It also holds the source files for that release. These are the same as the final revision sources in the matching Historical Source repository.
 
