@@ -18,7 +18,7 @@ The following sources provide further information on Deadline.
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Deadline listed in the Infocom Fact Sheet. It also holds the source files for the versions 27/831005 and 28/850129.
+Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Deadline listed in the Infocom Fact Sheet. It also holds the source files for versions 27/831005 and 28/850129.
 
 | Release | Serial | Story File                | Zarf Sources       | Historical Sources |
 | -------:|:------:|:-------------------------:|:------------------:|:------------------:|
