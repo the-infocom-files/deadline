@@ -20,7 +20,7 @@ The following sources provide further information on Deadline.
 
 ## Version History
 
-| Release | Serial | Type | Story File                | Zarf Sources       | Historical Sources |
+| Release | Serial | Type | Story File                | Obsessive Sources  | Historical Sources |
 | -------:|:------:|:----:|:-------------------------:|:------------------:|:------------------:|
 |      18 | 820311 |  PUB | [deadline-r18-s820311.z3] |                  - |                  - |
 |      19 | 820427 |  PUB | [deadline-r19-s820427.z3] |                  - |                  - |
